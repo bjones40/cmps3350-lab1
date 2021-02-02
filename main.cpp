@@ -2,6 +2,7 @@
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
 #include <stdlib.h>
+//CMPS 3350 lab 1 is all about git)
 int main(int argc, char ** argv)
 {
     if(argc > 1)
